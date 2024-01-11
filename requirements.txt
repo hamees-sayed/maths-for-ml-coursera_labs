@@ -5,3 +5,4 @@ matplotlib
 IPython
 pandas
 scikit-learn
+seaborn
