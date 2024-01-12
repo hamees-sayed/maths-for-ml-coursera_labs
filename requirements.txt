@@ -2,7 +2,8 @@ numpy
 ipywidgets
 jax
 matplotlib
-IPython
+ipython
 pandas
 scikit-learn
 seaborn
+scipy
